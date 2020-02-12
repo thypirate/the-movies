@@ -1,0 +1,28 @@
+{
+  "name": "the-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thypirate/the-movies.git"
+  },
+  "author": "Thypirate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thypirate/the-movies/issues"
+  },
+  "homepage": "https://github.com/thypirate/the-movies#readme",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "handlebars": "^4.7.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
